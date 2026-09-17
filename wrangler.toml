@@ -1,0 +1,7 @@
+# Journal des réseaux sociaux Sellify — compte Cloudflare SELY.
+name = "sellify-journal"
+compatibility_date = "2026-09-17"
+account_id = "a54fdd0b3637c1071ef0e25d3c65a3b6"
+
+[assets]
+directory = "./public"

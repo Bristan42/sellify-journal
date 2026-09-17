@@ -1,9 +1,9 @@
 # Journal des réseaux sociaux Sellify
 
-En ligne : https://sellify-journal.pages.dev (accès libre)
+En ligne : https://sellify-journal.sely-app.workers.dev (accès libre)
 
-Page statique unique (`index.html`), données embarquées dans la balise `<script id="state">`.
-Hébergée sur Cloudflare Pages, projet `sellify-journal`.
+Page statique unique (`public/index.html`), données embarquées dans la balise `<script id="state">`.
+Hébergée sur le compte Cloudflare SELY (Worker à fichiers statiques `sellify-journal`).
 
 ## Déployer
 
